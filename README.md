@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fsestelo/fsestelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🙋 About Me 
+
+💼 Working with Pega System, Digibee, Pipefy and Cloud technologies <br>
+🛠️ Building projects with Python, React, PostgreSQL and Docker <br>
+🔎 Interested in AWS, Automation, AI and Open Source <br>
+📚 Continuous learner focused on software architecture and best practices
+🌎 Portuguese (native), English and Spanish
+
 ## 🛠️ Tech Stack
 
 <p align="left">
